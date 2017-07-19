@@ -15,4 +15,3 @@ Pylint does not have any file writing reporter, and tox doesn't support stdout r
 ## Limitations
 
 The plugin currently can not be configured, thus reports are always in `reports/pylint/pylint.out`. Eventually some form of plugin configuration, most likely with environment variables, will be introduced.
-
