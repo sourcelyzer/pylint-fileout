@@ -2,6 +2,12 @@
 
 This is a plugin to write the output of pylint's parseable format to a text file.
 
+## Installation
+
+```
+$ pip install pylint-fileout
+```
+
 ## Usage
 
 ```
