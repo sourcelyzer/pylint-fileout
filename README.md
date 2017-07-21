@@ -5,7 +5,7 @@ This is a plugin to write the output of pylint's parseable format to a text file
 ## Installation
 
 ```
-$ pip install pylint-fileout
+$ pip install git+git://github.com/sourcelyzer/pylint-fileout.git
 ```
 
 ## Usage
